@@ -1,0 +1,18 @@
+.bluebutton {
+    background-color: #3882F6;
+    color: white;
+}
+.container {
+    background-color: #1f2937;
+    border: 0in;
+    display: flex;
+    margin: 0in;
+    color: #F9FAF8
+}
+#holder {
+    display: flex; 
+    background-color: #1f2937
+}
+.hero {
+    font: 48px extra-bold #F9FAF8
+}
